@@ -6,3 +6,6 @@ Getting started with the Yelp Dataset JSON files, and performing some first anal
 - jupyter notebook
 - SQLite3
 - Luna Data Modeler
+
+## dataset downloadable via
+https://www.yelp.com/dataset
