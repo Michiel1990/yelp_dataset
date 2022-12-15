@@ -37,10 +37,10 @@ In both notebooks the results are eventually loaded into a SQLite3 database for 
 > *note that some tables, such as Users_friends contain +100million rows, so be sure your CPU/RAM is up to the task before pumping this into SQLite. If it is not consider using a cloud-based solution such as Snowflake of BigQuery*
 
 ### KPI1
-
+This folder shows the SQLite3 code we used to answer the first KPI (as well as screenshot of the results)
 
 ### KPI2
-
+This folder shows the SQLite3 code we used to answer the second KPI (as well as screenshot of the results)
 
 ### KPI3
-
+This folder shows the SQLite3 code we used to create a basic **cohort analysis* for 2019, as well as the results exported into an .xlsx file. Please note this model is far from complete and can be expanded on e.g. by somehow including the *amount of users who made the review*, instead of the blank reviews.
